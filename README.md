@@ -30,7 +30,7 @@ Tenho 21 anos e moro em Lages/SC. Sou uma grande apaixonada pela área da tecnol
   
   ### Entre em contato comigo:
   <div>
-  <a href="https://www.linkedin.com/in/ane-luisy-grizotti-3581311aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/anegrizotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
   
