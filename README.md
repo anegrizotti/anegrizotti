@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo ao meu perfil Github!
 
-Tenho 21 anos e moro em Lages/SC. Sou uma grande apaixonada pela área da tecnologia e tudo que a envolve. Gosto muito de estar sempre atualizada no assunto e de aprender "coisas novas". Hoje em dia, o estudo e a utilização da tecnologia são as minhas principais ocupações, tanto na faculdade quanto no estágio e também, nas minhas atividades e projetos pessoais. Estou na 5ª fase do curso de Ciência da Computação e sou iniciante no mundo da programação.
+Tenho 21 anos e moro em Lages/SC. Sou uma grande apaixonada pela área da tecnologia e tudo que a envolve. Gosto muito de estar sempre atualizada no assunto e de aprender "coisas novas". Hoje em dia, o estudo e a utilização da tecnologia são as minhas principais ocupações, tanto na faculdade quanto no estágio e também, nas minhas atividades e projetos pessoais. Estou na 6ª fase do curso de Ciência da Computação e sou iniciante no mundo da programação.
 
 <div>🌱 Atualmente estou aprendendo a linguagem C# e a plataforma .NET <div>
 <div>🔭 Estou estagiando na NDDigital <div>
