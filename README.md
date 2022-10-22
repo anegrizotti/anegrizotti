@@ -2,13 +2,12 @@
 
 ### Seja bem-vindo ao meu perfil Github!
 
-Tenho 21 anos e moro em Lages/SC. Sou uma grande apaixonada pela área da tecnologia e tudo que a envolve. Gosto muito de estar sempre atualizada no assunto e de aprender "coisas novas". Hoje em dia, o estudo e a utilização da tecnologia são as minhas principais ocupações, tanto na faculdade quanto no estágio e também, nas minhas atividades e projetos pessoais. Estou na 6ª fase do curso de Ciência da Computação e sou iniciante no mundo da programação.
+Tenho 21 anos e moro em Lages/SC. Sou uma grande apaixonada pela área da tecnologia e tudo que a envolve. Gosto muito de estar sempre atualizada no assunto e de aprender "coisas novas". Hoje em dia, o estudo e a utilização da tecnologia são as minhas principais ocupações, tanto na faculdade quanto no trabalho e também, nas minhas atividades e projetos pessoais. Estou na 6ª fase do curso de Ciência da Computação e sou iniciante no mundo da programação.
 
-<div>🌱 Aprendendo a linguagem C# e utilizando o framework .NET <div>
-<div>💻 Desenvolvendo habilidades web com HTML, CSS, JS, TS e utilizando a plataforma Angular <div>
-<div>🔭 Estagiando na NDDigital <div>
+<div>🔭 Analista Desenvolvedora Jr. na NDD Tech <div>
 
 ### Ferramentas e Tecnologias
+<div>💻 C# | .NET Core | Sql Server | HTML | CSS | Javascript | Typescript | Angular
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/>
