@@ -7,7 +7,7 @@ Tenho 21 anos e moro em Lages/SC. Sou uma grande apaixonada pela área da tecnol
 <div>🔭 Analista Desenvolvedora Jr. na NDD Tech <div>
 
 ### Ferramentas e Tecnologias
-<div>💻 C# | .NET Core | Sql Server | HTML | CSS | Javascript | Typescript | Angular <div>
+<div>C# | .NET Core | Sql Server | HTML | CSS | Javascript | Typescript | Angular <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/>
