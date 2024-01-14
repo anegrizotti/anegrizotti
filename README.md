@@ -2,7 +2,7 @@
 
 ## Seja bem-vindo ao meu perfil Github!
 
-Atualmente atuo como Engenheira de Software e sou graduada Ciência da Computação, através do Instituto Federal de Santa Catarina. Minha paixão pelo mundo da tecnologia foi incitada há alguns anos, impulsionada por uma curiosidade inata e pelo desejo de explorar territórios desconhecidos. O que inicialmente surgiu como um simples interesse rapidamente se converteu em uma grande paixão, moldando o caminho que escolhi e definindo minha carreira.
+Atualmente atuo como Engenheira de Software e sou graduada em Ciência da Computação, através do Instituto Federal de Santa Catarina. Minha paixão pelo mundo da tecnologia foi incitada há alguns anos, impulsionada por uma curiosidade inata e pelo desejo de explorar territórios desconhecidos. O que inicialmente surgiu como um simples interesse rapidamente se converteu em uma grande paixão, moldando o caminho que escolhi e definindo minha carreira.
 
 ## Minha trajetória
 Minha trajetória no campo tecnológico me guiou rumo a um envolvimento em C# e Typescript, onde descobri a capacidade de criar soluções. Minha atuação profissional é focada na concepção de softwares fundamentados em micro-frontends e na construção de componentes reutilizáveis, um nicho que me conquistou por sua versatilidade e pelo potencial de transformação.
